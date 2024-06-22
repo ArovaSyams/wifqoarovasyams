@@ -21,7 +21,7 @@ const Aboutme = () => {
                         </div> 
                     </div>
                     <div className="m-10">
-                        <p className="mb-8">A young student enrolled in one of Turkey's esteemed universities pursuing a degree in Statistics and Computer Science, my academic journey revolves around the intricate fusion of statistical paradigms and computer techniques in data analysis, central to the realm of data science.</p>
+                        <p className="mb-8">A young student enrolled in one of Turkeys esteemed universities pursuing a degree in Statistics and Computer Science, my academic journey revolves around the intricate fusion of statistical paradigms and computer techniques in data analysis, central to the realm of data science.</p>
                         <Link href="#" className="bg-sky-500 text-white p-3 rounded-lg">Know More</Link>
                     </div>
                 </div>
