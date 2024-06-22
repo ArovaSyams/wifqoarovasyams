@@ -25,7 +25,7 @@ const Certification = () => {
                 </div>
             </div>
             <div className="flex justify-center mt-10">
-                <Link href="#" className="bg-sky-500 text-white p-3 rounded-lg">See More</Link>
+                <Link href="#" className="bg-sky-600 text-white p-3 rounded-lg">See More</Link>
             </div>
         </section>
     )
